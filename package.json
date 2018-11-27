@@ -13,11 +13,11 @@
         "test": "echo \"Error: no test specified\" && exit 1"
      },
 	 "dependencies": {
-    	"node-grovepi": "latest"
+    	
   	 },
      "repository": {
     	    "type": "git",
-    	    "url": "git@github.com:O-Hahn/node-red-contrib-grovepi"
+    	    "url": "git@github.com:BSatyaKishore/node-red-contrib-grovepi"
     	    	},
      "node-red" : {
         "nodes": {
